@@ -17,6 +17,6 @@ Understanding the cylinder case described in [Active flow control for drag reduc
 
 
 ## Env3D_MARL
-Environment
+Environment/
 Very important code 
 
